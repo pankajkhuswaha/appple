@@ -1,0 +1,130 @@
+@media screen and (max-width: 1321px) {
+    .prt-1{
+        background-image: none;
+    }
+    .imgg2 {
+        width: 28vw;
+        height: 28vw;
+    }
+    
+}
+@media screen and (max-width: 1252px) {
+    li.mn-li {
+        font-size: .6rem;
+        color: white;
+        padding: .8rem 1.55vw;
+    }
+    .prt-1{
+        background-image: none;
+    }
+    .imgg2 {
+        width: 28vw;
+        height: 28vw;
+    }
+ 
+}
+@media screen and (max-width: 950px) {
+    .rl{
+        display: none;
+    }
+    .imgg2 {
+        width: 34vw;
+        height: 34vw;
+        padding-bottom: 1.9em;
+    }
+    li.mn-li {
+        font-size: 1rem;
+        color: white;
+        padding: .4rem 3.2vw;
+    }
+    .prt-1{
+        background-image: none;
+    }
+    .imgg1 {
+        width: 48vw;
+        padding: 4em;
+    }
+    p.gp2fa {
+        font-size: 1.5rem;
+        padding-bottom: 1.4em;
+    }
+    
+} 
+@media screen and (max-width:780px){
+    .imgg1 {
+        padding-bottom: 4em;
+        width: 48vw;
+    }
+    .imgg2 {
+        width: 39vw;
+        height: 39vw;
+    }
+    p.gp2fa {
+        font-size: 1.5rem;
+        padding-bottom: 1.4em;
+    }
+    .imgg6 {
+        width: 48vw;
+        height: 70vh;
+    }
+    
+}
+@media screen and (max-width:580px ) {
+    .gridbar {
+       
+        grid-template-columns: 100vw;
+        margin-top: 7vh;
+    }
+    .prt-1{
+        background-image: none;
+    }
+    .imgg2 {
+        width: 55vw;
+        height: 55vw;
+    }
+    .imgg1,.imgg6{
+        padding-bottom: 0em;
+        width: 100vw;
+        height: 67vw;
+    }
+    img.prt4-img {
+        width: 56vw;
+    }
+    img.imgg3,.imgg4{
+        width: 100vw;
+    }
+    img.imgg5 {
+        width: 76vw;
+    }
+    p.l5 {
+        font-size: 2.2em;
+        font-family: 'Work Sans', sans-serif;
+    }
+    p.line1b {
+        font-size: 3em;
+        padding-bottom: .1em;
+    }
+    p.line1 {
+        font-size: 2.5em;
+        padding-top: 1em;
+        text-align: center;
+    }
+    .f1{
+        font-size: 2rem;
+    }
+    img.prt1-img {
+        width: 71vw;
+    }
+    img.prt2-img {
+        width: 90vw;
+    }
+    p.prt-4p1 {
+        font-size: 2.5rem;
+    }
+    p.prt-3p2 {
+        font-size: 1.4rem;
+        color: #000000b5;
+    }
+    
+}
+
